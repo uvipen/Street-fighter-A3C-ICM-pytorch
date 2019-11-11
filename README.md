@@ -4,7 +4,7 @@
 
 Here is my python source code for training an agent to play street fighter. By using Asynchronous Advantage Actor-Critic (A3C) algorithm introduced in the paper **Asynchronous Methods for Deep Reinforcement Learning** [paper](https://arxiv.org/abs/1602.01783), combined with Intrinsic Curiosity module introduced in the paper **Curiosity-driven Exploration by Self-supervised Prediction** [paper](https://arxiv.org/abs/1705.05363) (Note: The latter also re-introduced the former)
 <p align="center">
-  <img src="demo/video.gif"><br/>
+  <img src="demo/video.gif" width=600><br/>
   <i>Sample results</i>
 </p>
 
